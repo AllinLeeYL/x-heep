@@ -98,6 +98,7 @@ flow/OpenROAD-flow-scripts
 /docs/source/Configuration/xheep_gen
 
 # User-dependent configuration files
+.python-version
 .vscode
 .continue
 private/
